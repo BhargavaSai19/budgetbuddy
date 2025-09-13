@@ -1,0 +1,6 @@
+{
+  "Food": ["swiggy", "zomato", "kfc", "domino"],
+  "Transport": ["uber", "ola", "metro"],
+  "Shopping": ["amazon", "flipkart", "myntra"],
+  "Salary": ["salary", "payroll"]
+}
